@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Installation"
 output: html_document
@@ -37,3 +38,27 @@ library(SpaceX)
   <a href="htmlrmark1.html">Return to original page</a>
 
 
+=======
+---
+title: "another test for html"
+output: html_document
+---
+
+My House
+
+  <p>How to move back and forth</p>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+  ```{r}
+  print(2*pi)
+  ```
+  
+  
+  <a href="htmlrmark1.html">Return to original page</a>
+</body>
+</html>
+
+>>>>>>> 9d961eb4dcfb477c430f9261230b63c9963c863e
