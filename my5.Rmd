@@ -1,0 +1,22 @@
+---
+title: "Supplemental File"
+output: html_document
+---
+
+ 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r klippy, echo=FALSE, include=TRUE}
+klippy::klippy(position=c("top","right"))
+```
+
+<a href="https://bookdown.org/satwik91/SpaceX_supplementary">Supplemental Information</a>
+
+
+
+
+  <a href="htmlrmark1.html">Return to original page</a>
+
+
