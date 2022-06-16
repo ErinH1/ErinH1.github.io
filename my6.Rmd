@@ -1,7 +1,31 @@
 ---
 title: "Contact Information"
 output: html_document
+css: "my1.css"
 ---
+
+<style>
+.main-container {
+  max-width: 100% !important;
+}
+</style>
+
+ <div class="part1">
+<h1>SpaceX: Gene Co-Expression Network Estimation for
+ Spatial Transcriptomics: Contact Information</h1>
+ 
+<div class="tab">
+<button class="tablinks button" onclick="location.href='htmlrmark1.html'">Home</button>
+<button class="tablinks button" onClick="location.href='my2.html'">Installation</button> 
+<button class="tablinks button" onclick="location.href='my3.html'">Examples</button>
+<button class="tablinks button" onclick="location.href='my4.html'">Visualization</button>
+<button class="tablinks button" onclick="location.href='my5.html'">Supplemental File</button>
+<button class="tablinks button" onclick="location.href='my6.html'">Contact</button>
+<button class="tablinks button" onclick="location.href='my7.html'">Citation</button>
+<button class="tablinks button" onclick="location.href='my8.html'">View on Github</button>
+<button class="tablinks button" onclick="location.href='my9.html'">Acknowledgement</button>
+ </div>
+  </div>
 
  
 ```{r setup, include=FALSE}
@@ -12,9 +36,17 @@ knitr::opts_chunk$set(echo = TRUE)
 klippy::klippy(position=c("top","right"))
 ```
 
-Satwik:  (mailto: satwika@umich.edu)
+<p>
+<h2>Contact the authors:</h2>
+<p>
+<h2><a href="mailto: satwika@umich.edu">Satwik Acharyya</a>
+<p>
+<a href="mailto: xzhousph@umich.edu">Xiang Zhou</a>
+<p>
+<a href="mailto: veerab@umich.edu">Veerabhadran Baladandayuthapani</a>
+</h2>
 
 
-  <a href="htmlrmark1.html">Return to original page</a>
+
 
 

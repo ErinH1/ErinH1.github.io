@@ -1,9 +1,15 @@
 ---
-title: "SpaceX: Gene Co-Expression Network Estimation for
- Spatial Transcriptomics"
+title: 
 output: html_document
 css: "my1.css"
 ---
+
+<style>
+.main-container {
+  max-width: 100% !important;
+}
+</style>
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -12,8 +18,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r klippy, echo=FALSE, include=TRUE}
 klippy::klippy(position=c("top","right"))
 ```
- <div class="part1">
 
+
+ <div class="part1">
+<h1>SpaceX: Gene Co-Expression Network Estimation for
+ Spatial Transcriptomics</h1>
+ 
 <div class="tab">
 <button class="tablinks button" onclick="location.href='htmlrmark1.html'">Home</button>
 <button class="tablinks button" onClick="location.href='my2.html'">Installation</button> 
@@ -28,9 +38,10 @@ klippy::klippy(position=c("top","right"))
   </div>
 
 
-## SpaceX
 
 
+
+<img src="Method_only_plot_website.jpg" width="100%" ></img>
 
 
 

@@ -1,7 +1,16 @@
 ---
-title: "Citation"
+title:
 output: html_document
+css: "my1.css"
+bibliography: reference.bib
 ---
+
+<style>
+.main-container {
+  max-width: 100% !important;
+}
+</style>
+
 
  
 ```{r setup, include=FALSE}
@@ -12,10 +21,39 @@ knitr::opts_chunk$set(echo = TRUE)
 klippy::klippy(position=c("top","right"))
 ```
 
-Still need this.
+ <div class="part1">
+<h1>SpaceX: Gene Co-Expression Network Estimation for
+ Spatial Transcriptomics: Citation</h1>
+ 
+<div class="tab">
+<button class="tablinks button" onclick="location.href='htmlrmark1.html'">Home</button>
+<button class="tablinks button" onClick="location.href='my2.html'">Installation</button> 
+<button class="tablinks button" onclick="location.href='my3.html'">Examples</button>
+<button class="tablinks button" onclick="location.href='my4.html'">Visualization</button>
+<button class="tablinks button" onclick="location.href='my5.html'">Supplemental File</button>
+<button class="tablinks button" onclick="location.href='my6.html'">Contact</button>
+<button class="tablinks button" onclick="location.href='my7.html'">Citation</button>
+<button class="tablinks button" onclick="location.href='my8.html'">View on Github</button>
+<button class="tablinks button" onclick="location.href='my9.html'">Acknowledgement</button>
+ </div>
+  </div>
+
+
+<p>
+
+<h2><div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@article{acharyya2021spacex,
+    author = {Acharyya, Satwik and Zhou, Xiang and Baladandayuthapani, Veerabhadran},
+    title = {SpaceX: Gene Co-expression Network Estimation for Spatial Transcriptomics},
+    journal = {bioRxiv},
+    year = {2021}
+} 
+</code></pre></div></div>
+</h2>
 
 
 
-  <a href="htmlrmark1.html">Return to original page</a>
+
+
+ 
 
 

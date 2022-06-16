@@ -1,8 +1,31 @@
-<<<<<<< HEAD
 ---
-title: "Installation"
+title: 
 output: html_document
+css: "my1.css"
 ---
+
+<style>
+.main-container {
+  max-width: 100% !important;
+}
+</style>
+
+ <div class="part1">
+<h1>SpaceX: Gene Co-Expression Network Estimation for
+ Spatial Transcriptomics: Installation</h1>
+ 
+<div class="tab">
+<button class="tablinks button" onclick="location.href='htmlrmark1.html'">Home</button>
+<button class="tablinks button" onClick="location.href='my2.html'">Installation</button> 
+<button class="tablinks button" onclick="location.href='my3.html'">Examples</button>
+<button class="tablinks button" onclick="location.href='my4.html'">Visualization</button>
+<button class="tablinks button" onclick="location.href='my5.html'">Supplemental File</button>
+<button class="tablinks button" onclick="location.href='my6.html'">Contact</button>
+<button class="tablinks button" onclick="location.href='my7.html'">Citation</button>
+<button class="tablinks button" onclick="location.href='my8.html'">View on Github</button>
+<button class="tablinks button" onclick="location.href='my9.html'">Acknowledgement</button>
+ </div>
+  </div>
 
  
 ```{r setup, include=FALSE}
@@ -35,30 +58,5 @@ devtools::install_github("SatwikAch/SpaceX")
 library(SpaceX)
 ```
 
-  <a href="htmlrmark1.html">Return to original page</a>
+ 
 
-
-=======
----
-title: "another test for html"
-output: html_document
----
-
-My House
-
-  <p>How to move back and forth</p>
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-  ```{r}
-  print(2*pi)
-  ```
-  
-  
-  <a href="htmlrmark1.html">Return to original page</a>
-</body>
-</html>
-
->>>>>>> 9d961eb4dcfb477c430f9261230b63c9963c863e

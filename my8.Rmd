@@ -1,9 +1,80 @@
 ---
-title: "View on Githb"
+title: 
 output: html_document
+css: "my1.css"
 ---
 
- 
+```{=html}
+<style>
+.main-container {
+  max-width: 100% !important;
+}
+</style>
+```
+::: part1
+<h1>
+
+SpaceX: Gene Co-Expression Network Estimation for Spatial Transcriptomics: View on Github
+
+</h1>
+
+::: tab
+<button class="tablinks button" onclick="location.href=&#39;htmlrmark1.html&#39;">
+
+Home
+
+</button>
+
+<button class="tablinks button" onClick="location.href=&#39;my2.html&#39;">
+
+Installation
+
+</button>
+
+<button class="tablinks button" onclick="location.href=&#39;my3.html&#39;">
+
+Examples
+
+</button>
+
+<button class="tablinks button" onclick="location.href=&#39;my4.html&#39;">
+
+Visualization
+
+</button>
+
+<button class="tablinks button" onclick="location.href=&#39;my5.html&#39;">
+
+Supplemental File
+
+</button>
+
+<button class="tablinks button" onclick="location.href=&#39;my6.html&#39;">
+
+Contact
+
+</button>
+
+<button class="tablinks button" onclick="location.href=&#39;my7.html&#39;">
+
+Citation
+
+</button>
+
+<button class="tablinks button" onclick="location.href=&#39;my8.html&#39;">
+
+View on Github
+
+</button>
+
+<button class="tablinks button" onclick="location.href=&#39;my9.html&#39;">
+
+Acknowledgement
+
+</button>
+:::
+:::
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -12,10 +83,8 @@ knitr::opts_chunk$set(echo = TRUE)
 klippy::klippy(position=c("top","right"))
 ```
 
+<h2>
+
 [Github link](https://www.github.com/SatwikAch/SpaceX)
 
-
-
-  <a href="htmlrmark1.html">Return to original page</a>
-
-
+</h2>
