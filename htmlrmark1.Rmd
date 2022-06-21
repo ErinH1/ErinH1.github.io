@@ -41,7 +41,7 @@ klippy::klippy(position=c("top","right"))
 
 
 
-<img src="Method_only_plot_website.jpg" width="100%" ></img>
+<img src="Method_only_plot_website.jpg" width="90%" ></img>
 
 
 
