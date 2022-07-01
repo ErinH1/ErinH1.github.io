@@ -41,15 +41,15 @@ klippy::klippy(position=c("top","right"))
 
 <img src="BC_spatial_distn.jpg" width="100%" height="800"></img>
 
- 
 
-<img src="clus1.jpg" class="center"></img>
-
-<img src="clus2.jpg" class="center"></img>
+<iframe src="clus3d1a.html" width="100%" height="400px" data-external="1"></iframe>
 
 
-<img src="clus3.jpg" class="center"></img>
 
+<iframe src="clus3d1b.html" width="100%" height="400px" data-external="1"></iframe>
+
+
+<iframe src="clus3d1c.html" width="100%" height="400px" data-external="1"></iframe>
 
 
 
